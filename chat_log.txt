@@ -1,0 +1,154 @@
+User: hello
+Agent: That's an interesting question!
+
+User: how mare you?
+Agent: Let me think about that for a moment.
+
+User: coffee
+Agent: The campus coffee bar is open from 8 AM to 6 PM, Monday to Friday.
+
+User: hello
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: course
+Agent: test, we offer a variety of courses in computer science, business, and more.
+
+User: course
+Agent:We offer a variety of courses in computer science, business, and more.
+
+User: coffee
+Agent: The campus coffee bar is open from 8 AM to 6 PM, Monday to Friday.
+
+User: library
+Agent: The library is open 24/7 for all students.
+
+User: fee
+Agent: Can you elaborate on that, Hari?
+
+User: yes
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: admission
+Agent: That's an interesting question!
+
+User: can you tell about library
+Agent: The library is open 24/7 for all students.
+
+User: can you tell about fees
+Agent: You can find detailed information on fees at poppleton.ac.uk/fees.
+
+User: can you tell about accoummodation
+Agent: That's an interesting question!
+
+User: fee
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: yes
+Agent: That's an interesting question!
+
+User: coffe
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: can you tell about coffe
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: coffee
+Agent: The campus coffee bar is open from 8 AM to 6 PM, Monday to Friday.
+
+User: library
+Agent: The library is open 24/7 for all students.
+
+User: fee
+Agent: Let me think about that for a moment.
+
+User: how are you?
+Agent:I am fine.
+
+User: Can you tell me what the Mahabharata is about?
+Assistant: The Mahabharata is one of the two major Sanskrit epics of ancient India, the other being the Ramayana. It narrates the story of the Kuru dynasty, focusing on the conflict between two branches of the family—the Pandavas and the Kauravas—and culminates in the great Kurukshetra War. It also contains important philosophical and spiritual teachings, such as the Bhagavad Gita.
+
+User: What is Artificial Intelligence?
+Assistant: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are designed to think, learn, and make decisions like humans. AI can include tasks such as problem-solving, natural language understanding, image recognition, and even decision-making.
+
+User: mahabharata
+Assistant: The Mahabharata is one of the two major Sanskrit epics of ancient India, the other being the Ramayana. It narrates the story of the Kuru dynasty, focusing on the conflict between two branches of the family—the Pandavas and the Kauravas—and culminates in the great Kurukshetra War. It also contains important philosophical and spiritual teachings, such as the Bhagavad Gita.
+
+User: artificial intelligence?
+Assistant: Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are designed to think, learn, and make decisions like humans. AI can include tasks such as problem-solving, natural language understanding, image recognition, and even decision-making.
+
+
+User: hello
+Agent: Let me think about that for a moment.
+
+User: mahabharata
+Agent: The Mahabharata is one of the two major Sanskrit epics of ancient India.
+
+User: k chha
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: hi
+Agent: Can you elaborate on that, swarn?
+
+User: hello
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: hello
+Agent: That's an interesting question!
+
+User: k chha
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: python
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: sports
+Agent: The university offers various sports facilities, including football, cricket, and tennis.
+
+User: how are you
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: how are you
+Agent: Let me think about that for a moment.
+
+User: library
+Agent: The library is open 24/7 for all students.
+
+User: sports
+Agent: The university offers various sports facilities, including football, cricket, and tennis.
+
+User: fees
+Agent: You can find detailed information on fees at poppleton.ac.uk/fees.
+
+User: course
+Agent: swarn, we offer a variety of courses in computer science, business, and more.
+
+User: mahabharata
+Agent: The Mahabharata is one of the two major Sanskrit epics of ancient India.
+
+User: transport
+Agent: Campus buses are available from 7 AM to 10 PM, connecting all major city areas.
+
+User: ext
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: fee
+Agent: Let me think about that for a moment.
+
+User: hey
+Agent: I'm not sure I understand, but I'd love to help!
+
+User: what is your name?
+Agent: Let me think about that for a moment.
+
+User: sports
+Agent: The university offers various sports facilities, including football, cricket, and tennis.
+
+User: fee
+Agent: That's an interesting question!
+
+User: coffee
+Agent: The campus coffee bar is open from 8 AM to 6 PM, Monday to Friday.
+
+User: fee
+Agent: Can you elaborate on that, aayush?
+
